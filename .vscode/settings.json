@@ -32,7 +32,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "vsicons.dontShowNewVersionMessage": true,
-  "workbench.colorTheme": "SynthWave '84",
+  "workbench.colorTheme": "Copilot Theme",
   "auto-close-tag.activationOnLanguage": [
     "xml",
     "php",
